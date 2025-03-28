@@ -4,8 +4,8 @@ This PoC demonstrates how to express cybersecurity-related information using the
 
 ## Goals Checklist
 
-- [ ] Convert a cybersecurity standard (e.g., CSA Safe App Standard) into an **OSCAL catalog model**.
-- [ ] Express the OSCAL catalog model as a **markdown document**.
+- [ ] Convert a control of cybersecurity standard (e.g., CSA Safe App Standard) into an **OSCAL catalog model**.
+- [ ] Express it as a **markdown document**.
 
 ## Setup Instructions
 
